@@ -5,14 +5,13 @@ Topics: Confidence Intervals
 
 I.	The sample size of the survey should at least be a fixed percentage of the population size in order to produce representative results.
 
-             Answer:  False, the produce representative results are depends on sample size   
-                             Number of sample size rather than percentage of  the population
-                Size. A sample of n>= 30 is considered a sufficiently large amount.
+Answer:  False, the produce representative results are depends on sample size number of sample size rather than percentage of the population
+         size. A sample of n>= 30 is considered a sufficiently large amount.
 
 
 II.	The sampling frame is a list of every item that appears in a survey sample, including those that did not respond to questions.
  
-             Answer: True.
+Answer: True.
 
 III.	Larger surveys convey a more accurate impression of the population than smaller surveys.
 
@@ -23,34 +22,30 @@ Answer: True.
 
 A.	The population
 Answer:
-                          All of the PC magazine readers, only if we are interested in the readers of   
-                          PC  magazines, or else the population is all the users of different brands  
-                          Of magazines.
+       All of the PC magazine readers, only if we are interested in the readers of PC  magazines, or else the population is all the users of different brands  
+       of magazines.
 
 B.	The parameter of interest
 Answer:
-             Population size, average, sample size and rating scale 7.5 for kodak 
-             Camera.
+       Population size, average, sample size and rating scale 7.5 for kodak Camera.
              
 C.	The sampling frame
 Answer:
-             Each and every reader that responded by rating the products around 9000
+       Each and every reader that responded by rating the products around 9000
 
 D.	The sample size
 Answer:
-             225 readers.
+      225 readers.
 
 E.	The sampling design
 Answer:
-             Voluntary response.
+      Voluntary response.
 
 F.	Any potential sources of bias or other problems with the survey or sample
 Answer:
-             The key to random selection is that there is no bias involved in the
-             Selection of the sample, but surveys conducted by the magazines 
-             Often suffer from non response bias and also the source of this data is 
-             From readers that read PC magazine vs the whole population that do
-             Not read PC magazine yet they use these different brands of electronics.
+      The key to random selection is that there is no bias involved in the selection of the sample, but surveys conducted by the magazines often suffer 
+      from non response bias and also the source of this data is from readers that read PC magazine vs the whole population that do not read 
+      PC magazine yet they use these different brands of electronics.
 
              
 
@@ -65,16 +60,12 @@ II.	If the 95% confidence interval for the number of moviegoers who purchase con
 Answer: False, the given information implies only for 30 to 45% of moviegoers
                 At 95% confidence further than this we do not have information. 
 
-III.	The 95% Confidence-Interval for μ only applies if the sample data are nearly            normally distributed.
+III.	The 95% Confidence-Interval for μ only applies if the sample data are nearly normally distributed.
 
-Answer: False, the 95% confidence interval for population mean can be applied 
-                To distribution that aren’t normal, but they are easy to understand
-                In symmetric distributions. So, we can use central limit theorem to 
-                Make a normal approximation. The rule where about 95% of 
-                Observation are within two standard deviations of the mean is only 
-                Approximately true. However, it holds very well for the normal 
-                Distribution. The mean of data tends to be normally distributed
-                When the sample size is sufficiently large.
+Answer: False, the 95% confidence interval for population mean can be applied to distribution that aren’t normal, but they are easy to understand
+        in symmetric distributions. So, we can use central limit theorem to make a normal approximation. The rule where about 95% of 
+        observation are within two standard deviations of the mean is only approximately true. However, it holds very well for the normal distribution. 
+        The mean of data tends to be normally distributed when the sample size is sufficiently large.
              
 
 
@@ -92,20 +83,19 @@ Answer: B. 1/2
 
 I.	If the sample were based on 2,000 users, could Microsoft conclude that Mozilla has a less than 5% share of the market?
 
-            Answer: No,  As the p value > alpha for 95% confidence we failed to reject null 
-                             Hypothesis Ho: > 5% null hypothesis.
+Answer: No, As the p value > alpha for 95% confidence we failed to reject null Hypothesis Ho: > 5% null hypothesis.
 
-II.	WebSideStory claims that its sample includes all the daily Internet users. If that’s the case, then can Microsoft conclude that Mozilla has a less than 5% share of the market?
+II.	WebSideStory claims that its sample includes all the daily Internet users. If that’s the case, then can Microsoft conclude that Mozilla has a less 
+    than 5% share of the market?
 
-             Answer:  Yes.
+Answer:  Yes.
 
 
 6.	A book publisher monitors the size of shipments of its textbooks to university bookstores. For a sample of texts used at various schools, the 95% confidence interval for the size of the shipment was 250 ± 45 books. Which, if any, of the following interpretations of this interval are correct?
 
 A.	All shipments are between 205 and 295 books.
 
-Answer: Incorrect, 95% of the time size of the shipment will be around 250 +/-
-                45 books.
+Answer: Incorrect, 95% of the time size of the shipment will be around 250 +/- 45 books.
 
 B.	95% of shipments are between 205 and 295 books.
 
@@ -113,7 +103,7 @@ Answer: Correct.
 
 C.	The procedure that produced this interval generates ranges that hold the population mean for 95% of samples.
 
-              Answer: Correct.
+Answer: Correct.
 
 D.	If we get another sample, then we can be 95% sure that the mean of this second sample is between 205 and 295.
 
@@ -121,9 +111,8 @@ Answer: Correct.
 
 E.	We can be 95% confident that the range 160 to 340 holds the population mean.
 
-             Answer: Incorrect, as we increase the range +/- sigma the % of confidence 
-                             Increase for a normal distribution it will be 97.5% so the mean will lie
-                             In between 160 to 340 (-3 sigma to +3 sigma)
+Answer: Incorrect, as we increase the range +/- sigma the % of confidence increase for a normal distribution it will be 97.5% so the mean will lie
+        in between 160 to 340 (-3 sigma to +3 sigma)
 
 
 
@@ -135,10 +124,11 @@ C.	Both are equal
 D.	We cannot say
 
 E.	Answer: A. The z-interval is shorter.
-                                     for 95% confidence z-interval is shorter (1.960) as for t-interval       
-                                     (1.962)  It increases as degree of freedom decreases.
+            for 95% confidence z-interval is shorter (1.960) as for t-interval (1.962)  It increases as degree of freedom decreases.
 
-Questions 8 and 9 are based on the following: To prepare a report on the economy, analysts need to estimate the percentage of businesses that plan to hire additional employees in the next 60 days.
+
+Questions 8 and 9 are based on the following: To prepare a report on the economy, analysts need to estimate the percentage of businesses that plan to hire 
+additional employees in the next 60 days.
 
 8.	How many randomly selected employers (minimum number) must we contact in order to guarantee a margin of error of no more than 4% (at 95% confidence)?
 
@@ -148,8 +138,7 @@ C.	550
 D.	1000
 
 Answer:  B. 400
-                 Z score depends on the confidence level, p^ is the predicted value and q^ is
-                 The value to be predicted value.
+         Z score depends on the confidence level, p^ is the predicted value and q^ is the value to be predicted value.
                  
 
 9.	Suppose we want the above margin of error to be based on a 98% confidence level. What sample size (minimum) must we now use?
